@@ -37,7 +37,7 @@
       <li>
         <label>drank urine</label>
         <description>I drank my own urine.</description>
-        <baseMoodEffect>-10</baseMoodEffect>
+        <baseMoodEffect>10</baseMoodEffect>
       </li>
     </stages>
     <showBubble>true</showBubble>
@@ -50,8 +50,8 @@
     <stages>
       <li>
         <label>embarrassed</label>
-        <description>Someone saw me bathing and it made me uncomfortable.</description>
-        <baseMoodEffect>-3</baseMoodEffect>
+        <description>Someone saw me bathing!</description>
+        <baseMoodEffect>2</baseMoodEffect>
       </li>
     </stages>
     <showBubble>true</showBubble>
@@ -65,7 +65,7 @@
       <li>
         <label>embarrassed</label>
         <description>Someone walked in on me while I was using the toilet.</description>
-        <baseMoodEffect>-3</baseMoodEffect>
+        <baseMoodEffect>3</baseMoodEffect>
       </li>
     </stages>
     <showBubble>true</showBubble>
@@ -79,7 +79,7 @@
 			<li>
 				<label>soiled myself</label>
 				<description>I couldn't hold it in any longer and soiled myself.</description>
-				<baseMoodEffect>-8</baseMoodEffect>
+				<baseMoodEffect>8</baseMoodEffect>
 			</li>
 		</stages>
     <showBubble>true</showBubble>
@@ -177,7 +177,7 @@
 			<li>
 				<label>relieved myself</label>
 				<description>Aaaah much better.</description>
-				<baseMoodEffect>3</baseMoodEffect>
+				<baseMoodEffect>6</baseMoodEffect>
 			</li>
 		</stages>
 	</ThoughtDef>
@@ -190,7 +190,7 @@
 			<li>
 				<label>open defecation</label>
 				<description>I had to relieve myself outside in the open.</description>
-				<baseMoodEffect>-3</baseMoodEffect>
+				<baseMoodEffect>5</baseMoodEffect>
 			</li>
 		</stages>
     <showBubble>true</showBubble>
