@@ -44,8 +44,8 @@
 		<defName>FilthFaeces</defName>
 		<label>faeces</label>
 		<statBases>
-			<Beauty>-40</Beauty>
-			<Cleanliness>-35</Cleanliness>
+			<Beauty>0</Beauty>
+			<Cleanliness>0</Cleanliness>
 		</statBases>
 		<graphicData>
 			<texPath>Things/Filth/Spatter</texPath>
