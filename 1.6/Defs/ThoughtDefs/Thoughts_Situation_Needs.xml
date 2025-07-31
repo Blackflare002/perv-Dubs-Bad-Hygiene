@@ -35,12 +35,12 @@
       <li>
         <label>bursting</label>
         <description>I need to go so bad I'm about to burst!</description>
-        <baseMoodEffect>-6</baseMoodEffect>
+        <baseMoodEffect>6</baseMoodEffect>
       </li>
       <li>
         <label>need the bathroom</label>
         <description>I need to go to the bathroom.</description>
-        <baseMoodEffect>-3</baseMoodEffect>
+        <baseMoodEffect>3</baseMoodEffect>
       </li>
     </stages>
   </ThoughtDef>
